@@ -33,7 +33,8 @@ This course requires a final project to be developed as part of a group. Groups 
 ---------------------------------------------------------------------------------
 | Week No. |  Topic                      | Assignment Schd.   | Section         |
 |----------|-----------------------------|--------------------|-----------------|
-| 1        | Introduction, Lists         |                    | Data Structures |
+| 0        | Introduction                |                    | Introduction    |
+| 1        | Lists and Generics          |                    | Data Structures |
 | 2        | Iterators and Iterables     | DS.A1 Release      | Data Structures |
 | 3        | Trees and Traversals        |                    | Data Structures |
 | 4        | Graphs and Traversals       |                    | Data Structures |
@@ -50,7 +51,6 @@ This course requires a final project to be developed as part of a group. Groups 
 | 14       | Group Progress Meeting      |                    | Project         |
 | 15       | Group Progress Meeting      |                    | Project         |
 | 16       | Group Progress Meeting      |                    | Project         |
-| 17       | Group Progress Meeting      |                    | Project         |
-| 18       | Project Wrap-Up & Eval      | AppDev.A1 Due      | Project         |
+| 17       | Project Wrap-Up & Eval      | AppDev.A1 Due      | Project         |
 
 
